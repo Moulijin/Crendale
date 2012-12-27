@@ -1,0 +1,1 @@
+ody.exe seyerdin.servegame.com 5052
